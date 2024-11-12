@@ -59,7 +59,6 @@ $opacidade = 0.5;
 $tamanhoFonte = 20;
 $isImage = false;                      // Define se a marca d'água é uma imagem (true) ou texto (false)
 $imagemTamanho = 0.5;                  // Proporção do tamanho da imagem (ex: 0.5 = 50% do tamanho original)
-$imagemOpacidade = 0.5;                // Opacidade da imagem (0.0 a 1.0)
 ```
 
 ## Observações
